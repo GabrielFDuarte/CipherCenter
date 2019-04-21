@@ -1,6 +1,7 @@
 # CipherCenter
 
 Say hi!
+
 [![](https://img.shields.io/static/v1.svg?label=Linkedin&message=gabrielfduarte&color=blue)](https://www.linkedin.com/in/gabriel-ferreira-duarte-38b63080/ "![](https://img.shields.io/static/v1.svg?label=Linkedin&message=gabrielfduarte&color=blue)")
 
 Python scripts for encryption and decryption ciphers. The idea is to group as many techniques and algorithms as possible for encryption and decryption of texts.
@@ -28,4 +29,4 @@ After execution, the options will be presented in a menu format. From this menu 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md][LICENSE.md] file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/GabrielFDuarte/CipherCenter/blob/master/LICENSE "LICENSE.md") file for details.
