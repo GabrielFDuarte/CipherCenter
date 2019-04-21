@@ -1,7 +1,7 @@
 # CipherCenter
 
 Say hi!
-[![](https://img.shields.io/static/v1.svg?label=Linkedin&message=gabrielfduarte&color=blue)](www.linkedin.com/in/gabrielfduarte "![](https://img.shields.io/static/v1.svg?label=Linkedin&message=gabrielfduarte&color=blue)")
+[![](https://img.shields.io/static/v1.svg?label=Linkedin&message=gabrielfduarte&color=blue)][www.linkedin.com/in/gabrielfduarte]
 
 Python scripts for encryption and decryption ciphers. The idea is to group as many techniques and algorithms as possible for encryption and decryption of texts.
 
