@@ -14,7 +14,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 To run, you just need to call this script from a terminal or prompt.
 
-After execution, the options will be presented in a menu format. From this menu you can decid**e if you want to encode or decode a text and then you can choose a form of encryption from the available ones.
+After execution, the options will be presented in a menu format. From this menu you can decide if you want to encode or decode a text and then you can choose a form of encryption from the available ones.
+
+## Actual Release
+
+- Reverse Cipher: encryption by printing a message in reverse order.
+- Caesar's Cipher: method in which each letter in the message is replaced by a letter some fixed number of positions down the alphabet.
 
 ## Future Releases
 
